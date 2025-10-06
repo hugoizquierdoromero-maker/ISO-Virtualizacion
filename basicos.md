@@ -29,3 +29,4 @@ Memoria virtual: cada VM tiene su propio espacio de memoria.
 Disco virtual: archivos que actúan como discos duros para las VMs.
 
 Red virtual: conexiones virtuales entre VMs o con el exterior.
+https://github.com/hugoizquierdoromero-maker/ISO-Virtualizacion/blob/main/img/virtualbox-virtualizacion-importancia-blog-desdelinux-830x531.jpg
